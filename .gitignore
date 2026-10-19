@@ -1,0 +1,16 @@
+# AssetRipper intermediate export (15MB, regenerated from the original game — see README)
+export/
+
+# Python
+__pycache__/
+*.pyc
+
+# Dev server log
+serve.log
+
+# Local agent state
+.codeartsdoer/
+
+# OS junk
+Thumbs.db
+.DS_Store
